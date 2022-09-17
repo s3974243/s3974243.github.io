@@ -4,5 +4,7 @@
 
 layout: home
 ---
+
 !["Portrait Photograph (circa 2022)"](/images/me.jpg)
+
 ### Education: High School
