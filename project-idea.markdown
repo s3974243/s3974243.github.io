@@ -4,6 +4,8 @@ title: "Project Idea"
 permalink: /project
 ---
 
+<!-- _includes/page__meta.html -->
+
 {% if page.subtitle %}
     <p id="page-subtitle" class="page__subtitle p-name" itemprop="headline">
     {{ page.subtitle }}
