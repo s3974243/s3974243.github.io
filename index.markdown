@@ -5,13 +5,12 @@
 layout: home
 ---
 
-!["Portrait Photograph (circa 2022)"](/images/me.jpg)
-
-### Education: High School
-
 <figure>
     <img src="/images/me.jpg"
          alt="Portrait Photograph (circa 2022)">
     <figcaption>Portrait Photograph (circa 2022)
     </figcaption>
 </figure>
+
+### Education: High School
+
