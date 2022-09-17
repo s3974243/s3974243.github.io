@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project Idea"
-subtitle: "RemNote Text to Speech and Voice Recognition Extension"
+subtitle: "RemNote Text to Speech and Voice Recognition Extension fix this formatting"
 permalink: /project
 ---
 
