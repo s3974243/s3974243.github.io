@@ -6,10 +6,10 @@ layout: home
 ---
 
 <figure>
-    <img src="/assets/images/me.jpg"
-         alt="Portrait Photograph (circa 2022)">
-    <figcaption>Portrait Photograph (circa 2022)
-    </figcaption>
+  <img src="/assets/images/me.jpg"
+      alt="Portrait Photograph (circa 2022)">
+  <figcaption>Portrait Photograph (circa 2022)
+  </figcaption>
 </figure>
 
 ## General Information
@@ -24,7 +24,10 @@ Skills?: Pianist and violinist
   <summary><font size="+1">Personal Profile</font></summary>
 <h3>Tests</h3>
 <p>Myers-Briggs: ENTJ-A</p>
-<p>Learning Styles: </p>
+<p>Learning Styles: <figure>
+  <img src="/assets/images/LearningStylesQuiz.png">
+  </figure>
+</p>
 <p>Human Benchmark Test: </p>
 
 </details>
