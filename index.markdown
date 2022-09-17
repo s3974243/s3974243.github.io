@@ -12,19 +12,25 @@ layout: home
     </figcaption>
 </figure>
 
-### Current Education: High School
+## General Information
 
-### Languages: English, Spanish
+##### Current Education: High School
 
-### Skills?: Pianist and violinist
+##### Languages: English, Spanish
 
-# A collapsible section with markdown
+##### Skills?: Pianist and violinist
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Personal Profile</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+</details>
+
+<details>
+  <summary>Interest in IT</summary>
+  
+</details>
+
+<details>
+  <summary>Ideal Job</summary>
+  
 </details>
