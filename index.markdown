@@ -20,6 +20,7 @@ Languages: English, Spanish
 
 Skills?: Pianist and violinist
 
+
 <details>
   <summary>Personal Profile</summary>
   
