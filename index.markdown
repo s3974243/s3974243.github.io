@@ -21,8 +21,8 @@ Languages Spoken: English, Spanish
 Skills?: Pianist and violinist
 
 <details>
-  <summary> <font size ="+2>Personal Profile</font> </summary>
-<h5>Tests</h5>
+  <summary><font size="+2">Personal Profile</font></summary>
+<h5>Tests</h3>
 </details>
 
 <details>
