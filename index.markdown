@@ -14,12 +14,11 @@ layout: home
 
 ## General Information
 
-&nbsp;&nbsp;&nbsp;&nbsp; 
-##### Current Education: High School
+Current Education: High School
 
-##### Languages: English, Spanish
+Languages: English, Spanish
 
-##### Skills?: Pianist and violinist
+Skills?: Pianist and violinist
 
 <details>
   <summary>Personal Profile</summary>
