@@ -21,7 +21,7 @@ title: Jakob Derrington
 email: s3974243@student.rmit.edu.au
 student number: s3974243
 description: >- # this means to ignore newlines until "baseurl:"
-  Assignment submission for IIT
+  Assignment 1 submission for IIT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s3974243
