@@ -16,7 +16,7 @@ layout: home
 
 Current Education: High School
 
-Languages: English, Spanish
+Languages Spoken: English, Spanish
 
 Skills?: Pianist and violinist
 
