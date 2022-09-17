@@ -36,9 +36,9 @@ Skills?: Pianist and violinist
 </details>
 
 <details>
-  <summary><font size="+1">Ideal Job<font></summary>
+  <summary><font size="+1">Ideal Job</font></summary>
   <a href="https://www.seek.com.au/job/58255535?type=standout#sol=d99d5b8264f37b0373dd35e3904ccdbc8c6609f0" target="_blank" rel="external" hreflang="en" type="text/html">
-Link
+Software Engineer Genomics Ontology
 </a>
 
 </details>
