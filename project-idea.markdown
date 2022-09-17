@@ -11,8 +11,6 @@ permalink: /project
     {{ page.subtitle }}
 {% endif %}
 
-
-
 ### Overview
 
 RemNote is a digital flashcard and spaced repetition software.
