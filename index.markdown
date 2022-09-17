@@ -20,21 +20,20 @@ Languages Spoken: English, Spanish
 
 Skills?: Pianist and violinist
 
-<!DOCTYPE html>
 <html>
 
   <style>
     #leftbox{
       float:left;
-      width:25%;
+      width:33.33%;
     }
     #middlebox{
       float:left;
-      width:50%;
+      width:33.33%;
     }
     #rightbox{
       float:right;
-      width:25%;
+      width:33.33%;
     }
   </style>
 
