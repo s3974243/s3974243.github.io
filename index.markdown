@@ -14,7 +14,8 @@ layout: home
 
 ## General Information
 
-&nbsp;&nbsp;&nbsp;&nbsp; ##### Current Education: High School
+&nbsp;&nbsp;&nbsp;&nbsp; 
+##### Current Education: High School
 
 ##### Languages: English, Spanish
 
