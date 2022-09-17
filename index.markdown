@@ -23,6 +23,9 @@ Skills?: Pianist and violinist
 <details>
   <summary><font size="+2">Personal Profile</font></summary>
 <h5>Tests</h3>
+Myers-Briggs: ENTJ-A
+Learning Styles: 
+Human Benchmark Test: 
 </details>
 
 <details>
