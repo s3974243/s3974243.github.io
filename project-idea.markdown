@@ -5,8 +5,6 @@ subtitle: "RemNote Text to Speech and Voice Recognition Extension fix this forma
 permalink: /project
 ---
 
-<!-- _includes/page__meta.html -->
-
 {% if page.subtitle %}
     {{ page.subtitle }}
 {% endif %}
