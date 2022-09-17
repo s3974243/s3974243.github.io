@@ -16,7 +16,7 @@ layout: home
 
 ### Languages: English, Spanish
 
-### Skills?: Pianinist and violinist
+### Skills?: Pianist and violinist
 
 # A collapsible section with markdown
 <details>
