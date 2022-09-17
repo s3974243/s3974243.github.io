@@ -1,9 +1,14 @@
 ---
 layout: page
 title: "Project Idea"
-subtitle: "RemNote Text to Speech and Voice Recognition Extension"
-permalink: /project/
+permalink: /project
 ---
+
+{% if page.subtitle %}
+    <p id="page-subtitle" class="page__subtitle p-name" itemprop="headline">
+    {{ page.subtitle }}
+    </p>
+{% endif %}
 
 ### Overview
 
