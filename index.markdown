@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Portrait Photograph (circa 2022)](/images/me.jpg| relative_url)
+![Portrait Photograph (circa 2022)](/images/me.jpg)
