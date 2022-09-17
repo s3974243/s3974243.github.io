@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Portrait Photograph (circa 2022)](/images/me.jpg)
+!["Portrait Photograph (circa 2022)"](/images/me.jpg)
