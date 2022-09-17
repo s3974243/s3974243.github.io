@@ -22,7 +22,7 @@ Skills?: Pianist and violinist
 
 <details>
   <summary><font size="+1">Personal Profile</font></summary>
-<h5>Tests</h5>
+<h3>Tests</h3>
 <p>Myers-Briggs: ENTJ-A</p>
 <p>Learning Styles: </p>
 <p>Human Benchmark Test: </p>
@@ -30,11 +30,15 @@ Skills?: Pianist and violinist
 </details>
 
 <details>
-  <summary>Interest in IT</summary>
-  
+  <summary><font size="+1">Interest in IT</font></summary>
+  <p></p>
+
 </details>
 
 <details>
-  <summary>Ideal Job</summary>
-  
+  <summary><font size="+1">Ideal Job<font></summary>
+  <a href="https://www.seek.com.au/job/58255535?type=standout#sol=d99d5b8264f37b0373dd35e3904ccdbc8c6609f0" target="_blank" rel="external" hreflang="en" type="text/html">
+Link
+</a>
+
 </details>
