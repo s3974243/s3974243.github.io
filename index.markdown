@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![”Definitely Me”](me.jpg) 
+![”Definitely Me”](/_images/me.jpg) 
