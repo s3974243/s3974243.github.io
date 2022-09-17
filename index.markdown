@@ -12,5 +12,8 @@ layout: home
     </figcaption>
 </figure>
 
-### Education: High School
+### Current Education: High School
 
+### Languages: English, Spanish
+
+### Skills?: Pianinist and violinist
