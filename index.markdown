@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![”Portrait Photograph (circa 2022)”](/_images/me.jpg){:class="img-responsive"}
+![Portrait Photograph (circa 2022)](/images/me.jpg| relative_url)
