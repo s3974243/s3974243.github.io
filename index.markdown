@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![”Definitely Me”](/_images/me.jpg) 
+![”Portrait Photograph (circa 2022)”](/_images/me.jpg){:class="img-responsive"}
