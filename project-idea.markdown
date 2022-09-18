@@ -9,27 +9,36 @@ permalink: /project
     {{ page.subtitle }}
 {% endif %}
 
-### Overview
+## Outline
+
+<a href="#overview_link">Overview</a>
+<a href="#motivation_link">Motivation</a>
+<a href="#description_link">Description</a>
+<a href="#tools_link">Tools and Technologies</a>
+<a href="#skills_link">Skills Required</a>
+<a href="#outcome_link">Outcome</a>
+
+<a id="overview_link"><h3>Overview</h3></a>
 
 RemNote is a note-taking, digital flashcard, and spaced repetition tool. It's main purpose is to aid in learning and studying. The aim of this project is to create a plugin for RemNote that allows its users to be read flashcards by text to speech software and for oral answers to then be processed by voice recognition software. Additionally, new flashcards and notes will be able to created by speaking.
 
-### Motivation
+<a id="motivation_link"><h3>Motivation</h3></a>
 
 Many students (myself include) feel that they do not have adequate time or the motivation to study. Spending more time studying is the most 
 
-### Description
+<a id="description_link"><h3>Description</h3></a>
 
 RemNote. RemNote's powerful Frontend Plugin API allows a plugin to be embedded into a user's document.
 
-### Tools and Technologies
+<a id="tools_link"><h3>Tools and Technologies</h3></a>
 
 To create this plugin, three main pieces of software are required. RemNote's API, a TTS software, and a voice recognition software. I will use 
 Each user
 
-### Skills Required
+<a id="skills_link"><h3>Skills Required</h3></a>
 
+skills
 
+<a id="outcome_link"><h3>Outcome</h3></a>
 
-### Outcome
-
-
+outcomes
