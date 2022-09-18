@@ -30,7 +30,7 @@ Portrait Photograph (circa 2022)
 <p>Skills: Pianist, violinist, and artist</p>
 </div>
 </div>
-<div style="height:150px; width:100%; clear:both;"></div>
+<div style="height:70px; width:100%; clear:both;"></div>
 
 <details>
 <summary>
