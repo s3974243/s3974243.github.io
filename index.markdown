@@ -28,26 +28,9 @@ Portrait Photograph (circa 2022)
 <p>Education to Date: High School</p>
 <p>Languages Spoken: English, Spanish</p>
 <p>Skills: Pianist, violinist, and artist</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 </div>
 </div>
+<div style="height:400px; width:100%; clear:both;"></div>
 
 <details>
 <summary>
