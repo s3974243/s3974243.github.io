@@ -108,7 +108,7 @@ Skills?: Pianist, violinist, and artist
       <p>
       <ul>
         <li></li>
-        <li>I chose to come to RMIT because it was the only place that would accept me for the courses I was interested in due to my young age</li>
+        <li>I chose to come to RMIT because it was the only place that would accept me for the courses I was interested in due to my young age.</li>
         <li></li>
       </ul>
       </p>
