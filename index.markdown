@@ -7,7 +7,7 @@ layout: home
 
 <div class="grid-container">
 
-<div class="grid-image">
+<div class="grid-child image">
 <figure>
 <img src="/assets/images/me.jpg">
 <figcaption>
@@ -16,7 +16,7 @@ Portrait Photograph (circa 2022)
 </figure>
 </div>
 
-<div class="grid-general-information">
+<div class="grid-child generalinformation">
 <h2>General Information</h2>
 <p>Current Education: High School</p>
 <p>Languages Spoken: English, Spanish</p>
