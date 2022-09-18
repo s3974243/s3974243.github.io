@@ -105,7 +105,13 @@ Skills?: Pianist, violinist, and artist
   <div id = "middlebox">
     <details>
       <summary><font size="+1">Interest in IT</font></summary>
-      <p></p>
+      <p>
+      <ul>
+        <li></li>
+        <li>I chose to come to RMIT because it was the only place that would accept me for the courses I was interested in due to my young age</li>
+        <li></li>
+      </ul>
+      </p>
     </details>
   </div>
 
