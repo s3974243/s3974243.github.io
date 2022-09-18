@@ -52,7 +52,7 @@ Skills?: Pianist, violinist, and artist
       <table>
         <tr>
           <th>Test</th>
-          <th>Result</th>
+          <th>Score</th>
           <th>Percentile</th>
         </tr>
         <tr>
@@ -64,6 +64,36 @@ Skills?: Pianist, violinist, and artist
           <th>Chimp Test</th>
           <td>23</td>
           <td>&#60;99%</td>
+        </tr>
+        <tr>
+          <th>Aim Trainer</th>
+          <td>360 ms</td>
+          <td>80%</td>
+        </tr>
+        <tr>
+          <th>Typing</th>
+          <td>46 wpm</td>
+          <td>45%</td>
+        </tr>
+        <tr>
+          <th>Verbal Memory</th>
+          <td>400</td>
+          <td>&#60;99%</td>
+        </tr>
+        <tr>
+          <th>Number Memory</th>
+          <td>10 digits</td>
+          <td>59%</td>
+        </tr>
+        <tr>
+          <th>Visual Memory</th>
+          <td>21</td>
+          <td>&#60;99%</td>
+        </tr>
+        <tr>
+          <th>Reaction Time</th>
+          <td>160 ms</td>
+          <td>92%</td>
         </tr>
       </table>
       </p>
