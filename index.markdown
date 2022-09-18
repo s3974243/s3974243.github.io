@@ -35,6 +35,7 @@ layout: home
 
 <p>Skills: Pianist, violinist, and artist</p>
 </div>
+</div>
 
 <style>
     #leftbox{
