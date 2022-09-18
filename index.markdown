@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<div>
 <style>
     #leftbox1{
       float:left;
@@ -37,7 +38,9 @@ layout: home
 <p>Skills: Pianist, violinist, and artist</p>
 </div>
 </div>
+</div>
 
+<div>
 <style>
     #leftbox{
       float:left;
@@ -143,4 +146,5 @@ layout: home
       <p>This position </p>
     </details>
   </div>
+</div>
 </div>
