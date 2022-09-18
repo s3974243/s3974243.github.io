@@ -15,7 +15,6 @@ width:50%;}
 </style>
 
 <div id = "boxes">
-
 <div id = "leftbox">
 <figure>
 <img src="/assets/images/me.jpg">
@@ -24,7 +23,6 @@ Portrait Photograph (circa 2022)
 </figcaption>
 </figure>
 </div>
-
 <div id = "rightbox">
 <h2>General Information</h2>
 <p>Current Education: High School</p>
