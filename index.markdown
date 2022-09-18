@@ -4,12 +4,10 @@
 
 layout: home
 ---
-<style>
-  {float: right;}
-  {width: 50% float: right;}
-</style>
 
-<div>
+<div class="grid-container">
+
+<div class="grid-image">
 <figure>
 <img src="/assets/images/me.jpg">
 <figcaption>
@@ -18,11 +16,12 @@ Portrait Photograph (circa 2022)
 </figure>
 </div>
 
-<div>
+<div class="grid-general-information">
 <h2>General Information</h2>
 <p>Current Education: High School</p>
 <p>Languages Spoken: English, Spanish</p>
 <p>Skills: Pianist, violinist, and artist</p>
+</div>
 </div>
 
 <details>
