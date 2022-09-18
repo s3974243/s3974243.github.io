@@ -5,13 +5,28 @@
 layout: home
 ---
 
+<style>
+    #leftbox{
+      float:left;
+      width:50%;
+    }
+    #rightbox{
+      float:right;
+      width:50%;
+    }
+</style>
+
+<div id = "boxes">
+<div id = "leftbox">
 <figure>
   <img src="/assets/images/me.jpg"
       alt="Portrait Photograph (circa 2022)">
   <figcaption>Portrait Photograph (circa 2022)
   </figcaption>
 </figure>
+</div>
 
+<div id = "rightbox">
 <h2>General Information</h2>
 
 <p>Current Education: High School</p>
@@ -19,6 +34,7 @@ layout: home
 <p>Languages Spoken: English, Spanish</p>
 
 <p>Skills: Pianist, violinist, and artist</p>
+</div>
 
 <style>
     #leftbox{
