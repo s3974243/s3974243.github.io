@@ -18,7 +18,7 @@ Current Education: High School
 
 Languages Spoken: English, Spanish
 
-Skills?: Pianist and violinist
+Skills?: Pianist, violinist, and artist
 
 <html>
 
