@@ -43,7 +43,7 @@ Skills?: Pianist and violinist
     <details>
       <summary><font size="+1">Personal Profile</font></summary>
       <h3>Tests</h3>
-      <p>Myers-Briggs: ENTJ-A</p>
+      <p><a href="https://www.16personalities.com">Myers-Briggs:</a> ENTJ-A</p>
       <p>Learning Styles: <figure>
         <img src="/assets/images/LearningStylesQuiz.png">
       </figure>
