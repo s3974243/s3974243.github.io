@@ -5,146 +5,119 @@
 layout: home
 ---
 
-<div>
-<style>
-    #leftbox1{
-      float:left;
-      width:50%;
-    }
-    #rightbox1{
-      float:right;
-      width:50%;
-    }
-</style>
-
-<div id = "boxes1">
-
-<div id = "leftbox1">
 <figure>
-  <img src="/assets/images/me.jpg"
-      alt="Portrait Photograph (circa 2022)">
-  <figcaption>Portrait Photograph (circa 2022)
-  </figcaption>
+<img src="/assets/images/me.jpg"alt="Portrait Photograph (circa 2022)">
+<figcaption>
+Portrait Photograph (circa 2022)
+</figcaption>
 </figure>
-</div>
-
-<div id = "rightbox1">
 <h2>General Information</h2>
-
 <p>Current Education: High School</p>
-
 <p>Languages Spoken: English, Spanish</p>
-
 <p>Skills: Pianist, violinist, and artist</p>
-</div>
-</div>
-</div>
-
-<div>
-<style>
-    #leftbox{
-      float:left;
-      width:33.33%;
-    }
-    #middlebox{
-      float:left;
-      width:33.33%;
-    }
-    #rightbox{
-      float:right;
-      width:33.33%;
-    }
-</style>
-
-<div id = "boxes">
-
-  <div id = "leftbox">
-    <details>
-      <summary><font size="+1">Personal Profile</font></summary>
-      <h3>Tests</h3>
-      <p><a href="https://www.16personalities.com">Myers-Briggs:</a> ENTJ-A</p>
-      <p><a href="https://www.learningstylequiz.com">Learning Styles:</a> <figure>
-        <img src="/assets/images/LearningStylesQuiz.png">
-      </figure>
-      </p>
-      <p><a href="https://humanbenchmark.com">Human Benchmark Test:</a> 
-      <table>
-        <tr>
-          <th>Test</th>
-          <th>Score</th>
-          <th>Percentile</th>
-        </tr>
-        <tr>
-          <th>Sequence Memory</th>
-          <td>40</td>
-          <td>&#60;99%</td>
-        </tr>
-        <tr>
-          <th>Chimp Test</th>
-          <td>23</td>
-          <td>&#60;99%</td>
-        </tr>
-        <tr>
-          <th>Aim Trainer</th>
-          <td>360 ms</td>
-          <td>80%</td>
-        </tr>
-        <tr>
-          <th>Typing</th>
-          <td>46 wpm</td>
-          <td>45%</td>
-        </tr>
-        <tr>
-          <th>Verbal Memory</th>
-          <td>400</td>
-          <td>&#60;99%</td>
-        </tr>
-        <tr>
-          <th>Number Memory</th>
-          <td>10 digits</td>
-          <td>59%</td>
-        </tr>
-        <tr>
-          <th>Visual Memory</th>
-          <td>21</td>
-          <td>&#60;99%</td>
-        </tr>
-        <tr>
-          <th>Reaction Time</th>
-          <td>160 ms</td>
-          <td>92%</td>
-        </tr>
-      </table>
-      </p>
-      <p><font size="+1">Discussion</font>
-      </p>
-    </details>
-  </div>
-
-  <div id = "middlebox">
-    <details>
-      <summary><font size="+1">Interest in IT</font></summary>
-      <p>
-      <ul>
-        <li></li>
-        <li>I chose to come to RMIT because it was the only place that would accept me for the courses I was interested in due to my young age.</li>
-        <li></li>
-      </ul>
-      </p>
-    </details>
-  </div>
-
-  <div id = "rightbox">
-    <details>
-      <summary><font size="+1">Ideal Job</font></summary>
-      <a href="https://www.seek.com.au/job/58255535?type=standout#sol=d99d5b8264f37b0373dd35e3904ccdbc8c6609f0">
-      Software Engineer Genomics Ontology SEEK Link
-      </a>
-      <a href="/assets/pdfs/Software Engineer Genomics Ontology Job in Melbourne VIC - SEEK.pdf">
-      PDF Link
-      </a>
-      <p>This position </p>
-    </details>
-  </div>
-</div>
-</div>
+<details>
+<summary>
+<font size="+1">
+Personal Profile
+</font>
+</summary>
+<h3>Tests</h3>
+<p>
+<a href="https://www.16personalities.com">
+Myers-Briggs:
+</a>
+ENTJ-A
+</p>
+<p>
+<a href="https://www.learningstylequiz.com">
+Learning Styles:
+</a> 
+<figure>
+<img src="/assets/images/LearningStylesQuiz.png">
+</figure>
+</p>
+<p>
+<a href="https://humanbenchmark.com">
+Human Benchmark Test:
+</a> 
+<table>
+<tr>
+<th>Test</th>
+<th>Score</th>
+<th>Percentile</th>
+</tr>
+<tr>
+<th>Sequence Memory</th>
+<td>40</td>
+<td>&#60;99%</td>
+</tr>
+<tr>
+<th>Chimp Test</th>
+<td>23</td>
+<td>&#60;99%</td>
+</tr>
+<tr>
+<th>Aim Trainer</th>
+<td>360 ms</td>
+<td>80%</td>
+</tr>
+<tr>
+<th>Typing</th>
+<td>46 wpm</td>
+<td>45%</td>
+</tr>
+<tr>
+<th>Verbal Memory</th>
+<td>400</td>
+<td>&#60;99%</td>
+</tr>
+<tr>
+<th>Number Memory</th>
+<td>10 digits</td>
+<td>59%</td>
+</tr>
+<tr>
+<th>Visual Memory</th>
+<td>21</td>
+<td>&#60;99%</td>
+</tr>
+<tr>
+<th>Reaction Time</th>
+<td>160 ms</td>
+<td>92%</td>
+</tr>
+</table>
+</p>
+<p>
+<font size="+1">
+Discussion
+</font>
+</p>
+</details>
+<details>
+<summary>
+<font size="+1">
+Interest in IT
+</font></summary>
+<p>
+<ul>
+<li></li>
+<li>I chose to come to RMIT because it was the only place that would accept me for the courses I was interested in due to my young age.</li>
+<li></li>
+</ul>
+</p>
+</details>
+<details>
+<summary>
+<font size="+1">
+Ideal Job
+</font>
+</summary>
+<a href="https://www.seek.com.au/job/58255535?type=standout#sol=d99d5b8264f37b0373dd35e3904ccdbc8c6609f0">
+Software Engineer Genomics Ontology SEEK Link
+</a>
+<a href="/assets/pdfs/Software Engineer Genomics Ontology Job in Melbourne VIC - SEEK.pdf">
+PDF Link
+</a>
+<p>This position</p>
+</details>
