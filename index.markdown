@@ -48,7 +48,25 @@ Skills?: Pianist, violinist, and artist
         <img src="/assets/images/LearningStylesQuiz.png">
       </figure>
       </p>
-      <p><a href="https://humanbenchmark.com">Human Benchmark Test:</a> </p>
+      <p><a href="https://humanbenchmark.com">Human Benchmark Test:</a> 
+      <table>
+        <tr>
+          <th>Test</th>
+          <th>Result</th>
+          <th>Percentile</th>
+        </tr>
+        <tr>
+          <th>Sequence Memory</th>
+          <td>40</td>
+          <td>&#60;99%</td>
+        </tr>
+        <tr>
+          <th>Chimp Test</th>
+          <td>23</td>
+          <td>&#60;99%</td>
+        </tr>
+      </table>
+      </p>
     </details>
   </div>
 
