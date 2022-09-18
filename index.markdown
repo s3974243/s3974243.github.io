@@ -17,6 +17,7 @@ layout: home
 </style>
 
 <div id = "boxes">
+
 <div id = "leftbox">
 <figure>
   <img src="/assets/images/me.jpg"
@@ -139,7 +140,7 @@ layout: home
       <a href="/assets/pdfs/Software Engineer Genomics Ontology Job in Melbourne VIC - SEEK.pdf">
       PDF Link
       </a>
-      <p>This position</p>
+      <p>This position </p>
     </details>
   </div>
 </div>
