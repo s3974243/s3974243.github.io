@@ -6,7 +6,7 @@ layout: home
 ---
 
 <figure>
-<img src="/assets/images/me.jpg"alt="Portrait Photograph (circa 2022)">
+<img src="/assets/images/me.jpg">
 <figcaption>
 Portrait Photograph (circa 2022)
 </figcaption>
