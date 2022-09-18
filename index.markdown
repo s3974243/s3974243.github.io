@@ -25,9 +25,28 @@ Portrait Photograph (circa 2022)
 </div>
 <div id = "rightbox">
 <h2>General Information</h2>
-<p>Current Education: High School</p>
+<p>Education to Date: High School</p>
 <p>Languages Spoken: English, Spanish</p>
 <p>Skills: Pianist, violinist, and artist</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </div>
 
