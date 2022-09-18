@@ -4,17 +4,27 @@
 
 layout: home
 ---
+<style>
+  {float: right;}
+  {width: 50% float: right;}
+</style>
 
+<div>
 <figure>
 <img src="/assets/images/me.jpg">
 <figcaption>
 Portrait Photograph (circa 2022)
 </figcaption>
 </figure>
+</div>
+
+<div>
 <h2>General Information</h2>
 <p>Current Education: High School</p>
 <p>Languages Spoken: English, Spanish</p>
 <p>Skills: Pianist, violinist, and artist</p>
+</div>
+
 <details>
 <summary>
 <font size="+1">
