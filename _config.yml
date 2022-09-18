@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Jakob Derrington
 email: s3974243@student.rmit.edu.au
-student number: s3974243
 description: >- # this means to ignore newlines until "baseurl:"
   Assignment submission 1 for IIT
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,8 +27,10 @@ github_username:  s3974243
 
 # Build settings
 theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
