@@ -6,19 +6,19 @@ layout: home
 ---
 
 <style>
-    #leftbox{
+    #leftbox1{
       float:left;
       width:50%;
     }
-    #rightbox{
+    #rightbox1{
       float:right;
       width:50%;
     }
 </style>
 
-<div id = "boxes">
+<div id = "boxes1">
 
-<div id = "leftbox">
+<div id = "leftbox1">
 <figure>
   <img src="/assets/images/me.jpg"
       alt="Portrait Photograph (circa 2022)">
@@ -27,7 +27,7 @@ layout: home
 </figure>
 </div>
 
-<div id = "rightbox">
+<div id = "rightbox1">
 <h2>General Information</h2>
 
 <p>Current Education: High School</p>
