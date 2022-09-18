@@ -97,6 +97,8 @@ Skills?: Pianist, violinist, and artist
         </tr>
       </table>
       </p>
+      <p><font size="+1">Discussion</font>
+      </p>
     </details>
   </div>
 
