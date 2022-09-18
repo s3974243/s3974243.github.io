@@ -44,11 +44,11 @@ Skills?: Pianist, violinist, and artist
       <summary><font size="+1">Personal Profile</font></summary>
       <h3>Tests</h3>
       <p><a href="https://www.16personalities.com">Myers-Briggs:</a> ENTJ-A</p>
-      <p>Learning Styles: <figure>
+      <p><a href="https://www.learningstylequiz.com">Learning Styles:</a> <figure>
         <img src="/assets/images/LearningStylesQuiz.png">
       </figure>
       </p>
-      <p>Human Benchmark Test: </p>
+      <p><a href="https://humanbenchmark.com">Human Benchmark Test:</a> </p>
     </details>
   </div>
 
