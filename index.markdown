@@ -12,17 +12,15 @@ layout: home
   </figcaption>
 </figure>
 
-## General Information
+<h2>General Information</h2>
 
-Current Education: High School
+<p>Current Education: High School</p>
 
-Languages Spoken: English, Spanish
+<p>Languages Spoken: English, Spanish</p>
 
-Skills?: Pianist, violinist, and artist
+<p>Skills: Pianist, violinist, and artist</p>
 
-<html>
-
-  <style>
+<style>
     #leftbox{
       float:left;
       width:33.33%;
@@ -35,7 +33,7 @@ Skills?: Pianist, violinist, and artist
       float:right;
       width:33.33%;
     }
-  </style>
+</style>
 
 <div id = "boxes">
 
@@ -128,4 +126,3 @@ Skills?: Pianist, violinist, and artist
     </details>
   </div>
 </div>
-</html>
