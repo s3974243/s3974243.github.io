@@ -5,9 +5,18 @@
 layout: home
 ---
 
-<div class="grid-container">
+<style>
+#leftbox{
+float:left; 
+width:50%;}
+#rightbox{
+float:left;
+width:50%;}
+</style>
 
-<div class="grid-child image">
+<div id = "boxes">
+
+<div id = "leftbox">
 <figure>
 <img src="/assets/images/me.jpg">
 <figcaption>
@@ -16,7 +25,7 @@ Portrait Photograph (circa 2022)
 </figure>
 </div>
 
-<div class="grid-child generalinformation">
+<div id = "rightbox">
 <h2>General Information</h2>
 <p>Current Education: High School</p>
 <p>Languages Spoken: English, Spanish</p>
