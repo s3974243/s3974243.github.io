@@ -28,16 +28,16 @@ Many students (myself include) feel that they do not have adequate time or the m
 
 <a id="description_link"><font size="+3">Description</font></a>
 
-RemNote. RemNote's powerful Frontend Plugin API allows a plugin to be embedded into a user's document.
+RemNote. RemNote's Frontend Plugin API allows a plugin to be embedded into a user's document.
 
 <a id="tools_link"><font size="+3">Tools and Technologies</font></a>
 
-To create this plugin, three main pieces of software are required. RemNote's API, a TTS software, and a voice recognition software. I will use 
-Each user
+To create this plugin, three main pieces of software are required. RemNote's API, a TTS software, and a voice recognition software. I will use <a href="https://github.com/marytts/marytts">Mary TTS</a>and <a href="https://github.com/kaldi-asr/kaldi">the Kaldi Speech Recognition Toolkit</a>for the latter two respectively. These are both open source and can function in web clients
+Each user will have to have a capable computer equipped with both a microphone and speaker (or some other form of audio output).
 
 <a id="skills_link"><font size="+3">Skills Required</font></a>
 
-skills
+
 
 <a id="outcome_link"><font size="+3">Outcome</font></a>
 
