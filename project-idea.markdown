@@ -33,8 +33,7 @@ RemNote's Frontend Plugin API allows a website to be embedded in RemNote.
 
 <a id="tools_link"><font size="+3">Tools and Technologies</font></a>
 
-To create this plugin, three main pieces of software are required. RemNote's API, a TTS software, and a voice recognition software. I will use <a href="https://github.com/marytts/marytts">Mary TTS</a> and <a href="https://github.com/kaldi-asr/kaldi">the Kaldi Speech Recognition Toolkit</a> for the latter two respectively. These are both open source and can function in web clients
-Each user will have to have a capable computer equipped with both a microphone and speaker (or some other form of audio output).
+To create this plugin, three main pieces of software are required. RemNote's API, a TTS software, and a voice recognition software. I will use <a href="https://github.com/marytts/marytts">Mary TTS</a> and <a href="https://github.com/kaldi-asr/kaldi">the Kaldi Speech Recognition Toolkit</a> for the latter two respectively. These are both open source and can function in web clients. Each user will have to have a capable computer equipped with both a microphone and speaker (or some other form of audio output).
 
 <a id="skills_link"><font size="+3">Skills Required</font></a>
 
@@ -46,7 +45,7 @@ If successful, myself and other students will be able to find more time for revi
 
 <a id="links_link"><font size="+3">Links</font></a>
 
-https://www.remnote.com/
-https://www.remnote.com/api
-https://github.com/marytts/marytts
-https://github.com/kaldi-asr/kaldi
+<a href="https://www.remnote.com">https://www.remnote.com</a>
+<a href="https://www.remnote.com/api">https://www.remnote.com/api</a>
+<a href="https://github.com/marytts/marytts">https://github.com/marytts/marytts</a>
+<a href="https://github.com/kaldi-asr/kaldi">https://github.com/kaldi-asr/kaldi</a>
